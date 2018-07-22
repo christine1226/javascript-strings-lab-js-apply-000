@@ -2,7 +2,7 @@ var greeting = "Hello, everybody!";
 
 var specialGuest = "Neil deGrasse Tyson"
 
-var greetSpecialGuest = "Hello," + specialGuest + "!";
+var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
 var topic = "space";
 
@@ -12,5 +12,5 @@ function greeting(){
   returns `greeting`
 }
 function greetSpecialGuest(){
-  return greetSpecialGuest;
+  return greetSpecialGuest
 }
