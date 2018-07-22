@@ -11,3 +11,6 @@ var conversation = `${topic}`;
 function greeting(){
   returns `greeting`
 }
+function greetSpecialGuest(){
+  return greetSpecialGuest;
+}
